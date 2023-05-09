@@ -1,0 +1,776 @@
+Nome:  
+CPF: 12312312312 
+Telefone: 1232132112 
+Endereco:  
+Data de nascimento: 12_12_1212 
+Email:  
+Data do diagnóstico: 23_12_1250 
+Comorbidade: obesidade 
+
+Nome:  
+CPF: 12312312312 
+Telefone: 11223344556rua_a 
+Endereco: rua_a 
+Data de nascimento:  
+Email: email@email.com 
+Data do diagnóstico: 23/05/1500 
+Comorbidade: obesidade 
+
+Nome:  
+CPF: 12312312312 
+Telefone: 12121212121rua_a 
+Endereco: rua_a 
+Data de nascimento:  
+Email: email@email.com 
+Data do diagnóstico: 30/05/1500 
+Comorbidade: obesidade 
+
+
+
+Nome:  
+CPF: 12345678900 
+Telefone: 11988776655Rua_R 
+Endereco: Rua_R 
+Data de nascimento:  
+Email: email@email.com 
+Data do diagnóstico: 30/06/2022 
+Comorbidade: Obesidade 
+
+
+
+Nome:  
+CPF: 12368739242 
+Telefone: 11957448844RuaA 
+Endereco: RuaA 
+Data de nascimento: 29031959 
+Email: email@email.com 
+Data do diagnóstico: 30121090 
+Comorbidade: obesidade 
+
+
+
+Nome: Joao 
+CPF:  
+Telefone: 123345567 
+Endereco: Ruaa 
+Data de nascimento:  
+Email: eail@email.com 
+Data do diagnóstico: 26/02/2750 
+Comorbidade: fome 
+
+
+
+Nome: a 
+CPF:  
+Telefone: 12345643212RuaA 
+Endereco: RuaA 
+Data de nascimento:  
+Email: email@email.com 
+Data do diagnóstico: 23/08/2001 
+Comorbidade: diabetes 
+
+
+
+Nome: 5 
+CPF: 123123123-55 
+Telefone: 1254354323 
+Endereco: 
+ 
+Data de nascimento:  
+Email: email@email.com 
+Data do diagnóstico: 12/54/3212 
+Comorbidade: 
+ 
+
+
+
+Nome:  
+CPF: 12312312333 
+Telefone: 12123231212
+ 
+Endereco: 
+ 
+Data de nascimento:  
+Email: email@email.com 
+Data do diagnóstico: 23/23/2323 
+Comorbidade: 
+ 
+
+Nome: 
+CPF: 123Telefone: 123Endereco: 
+Data de nascimento: 234Email: e@e.comData do diagnostico: 234Comorbidade: 
+
+
+Nome: Joao Victor
+
+CPF: 12312365433
+
+Telefone: 119998877661@2.com
+Endereco: 
+
+Data de nascimento: 123
+Email: 1@2.com
+Data do diagnostico: 456
+Comorbidade: 
+
+
+Nome: Joao Victor
+
+CPF: 12345678955
+
+Telefone: 11976543728asd@email.com
+Endereco: 
+
+Data de nascimento: 12/12/121232/32/3223
+
+Email: asd@email.com
+Data do diagnostico: 32/32/3223
+
+Comorbidade: 
+
+
+Nome: Joao Victor
+CPF: 43243243223
+Telefone: 11909090909e@a.comEndereco: 
+Data de nascimento: 12/12/121223/23/2323
+Email: e@a.comData do diagnostico: 23/23/2323
+Comorbidade: 
+Nome: Joao Victor
+CPF: 12312312323
+Telefone: 12432343434email@email.comEmail: email@email.comEndereco: 
+Rua: 12345-123
+Numero: 1
+Bairro: Abc
+Cidade: DEF
+Estado: GH
+Data de nascimento: 12/12/121212/12/1212
+Data do diagnostico: 12/12/1212
+Comorbidade: 
+Nome: 1
+CPF: 2Telefone: 3Email: 4Endereco: 
+Rua: 5
+Numero: 6
+Bairro: 7
+Cidade: 8
+Estado: 9
+Data de nascimento: 10Data do diagnostico: 11Comorbidade: 
+Nome: 1
+CPF: 2Telefone: 3Email: 4Endereco: 
+Rua: 5
+Numero: 6
+Bairro: 7
+Cidade: 8
+Estado: 9
+Data de nascimento: 10Data do diagnostico: 11Comorbidade: 
+Nome: joao victor
+CPF: 12312312312
+Telefone: 12432322154teste@teste.comEmail: teste@teste.comEndereco: 
+Rua: erro
+Numero: 04
+Bairro: Jardins
+Cidade: Sao Paulo
+Estado: Sao Paulo
+Data de nascimento: 25/12/243212/54/3232
+Data do diagnostico: 12/54/3232
+Comorbidade: 
+Nome: Joao Victor
+CPF: 1234567890Telefone: 11988776655joao@victor.comEmail: joao@victor.comEndereco: 
+Rua: teste
+Numero: teste
+Bairro: teste
+Cidade: teste
+Estado: teste
+Data de nascimento: testeData do diagnostico: testeComorbidade: 
+
+Nome: Joao Victor
+CPF: 4561237893
+Telefone: 11988776655
+
+Email: teste@teste.com
+
+Endereco: 12345-123
+Rua: Av. Funciona Pelo Amor
+Numero: 10
+Bairro: Amem
+Cidade: Gloria
+Estado: Louvado Seja
+Data de nascimento: 23/11/200405/10/2022Obesidade
+
+Data do diagnostico: 05/10/2022Obesidade
+
+Comorbidade: Obesidade
+
+Nome: Joao Victor
+;CPF: 4443332221;
+Telefone: 11966885533
+;Email: email@email.com
+;
+Endereco Completo
+CEP: 01234-345
+, 
+RUA: Rua da Esperanca
+, 
+NUMERO: 7
+, 
+BAIRRO: Balneario
+, 
+CIDADE: New York
+, 
+ESTADO: Seong Woo
+;Data de nascimento: 16/02/200128/09/2022Desemprego
+;Data do diagnostico: 28/09/2022Desemprego
+;Comorbidade: Desemprego
+;
+
+Nome: Joao Victor
+, 
+CPF: 4562346784, 
+Telefone: 11958959543
+, 
+Email: email@email.com
+, 
+ENDERECO COMPLETO
+CEP: 12345-432
+, RUA: Algusta
+, NUMERO: 2896
+, BAIRRO: Mec1000
+, CIDADE: Sao Leopoldo
+, ESTADO: Rio Grande do Sul
+, 
+Data de nascimento: 07/05/200011/11/2022Ferias atrasadas
+, 
+Data do diagnostico: 11/11/2022Ferias atrasadas
+, 
+Comorbidade: Ferias atrasadas
+
+Nome: Joao Victor
+, 
+CPF: 2225553334, 
+Telefone: 1195425252
+, 
+Email: email@email.com
+, 
+ENDERECO COMPLETO
+CEP: 01234-324
+, RUA: Augusta
+, NUMERO: 1007
+, BAIRRO: Ali
+, CIDADE: Sao Paulo
+, ESTADO: Sao Paulo
+, 
+Data de nascimento: 22/11/444422/11/2121Ferias atrasadas
+, 
+Data do diagnostico: 22/11/2121Ferias atrasadas
+, 
+Comorbidade: Ferias atrasadas
+
+Nome: Joao Victor
+, 
+CPF: 1231231231, 
+Telefone: 123123123123
+, 
+Email: email@email.com
+, 
+ENDERECO COMPLETO
+CEP: 54345-426
+, RUA: Algusta
+, NUMERO: 1007
+, BAIRRO: Sao Paulo
+, CIDADE: Sao Paulo
+, ESTADO: Sao Paulo
+, 
+Data de nascimento: 21/06/200, 
+Data do diagnostico: 09/11/202, 
+Comorbidade: Desnutricao
+
+Nome: Joao Victor
+, 
+CPF: 6546546544, 
+Telefone: 11922113322
+, 
+Email: teste@teste.com
+, 
+ENDERECO COMPLETO
+CEP: 10234-321
+, RUA: Algusta
+, NUMERO: 1007
+, BAIRRO: Consolacao
+, CIDADE: Sao Paulo
+, ESTADO: SP
+, 
+Data de nascimento: 07/08/200, 
+Data do diagnostico: 09/11/202, 
+Comorbidade: Alcolismo
+
+Nome: Joao Victor
+, 
+CPF: 1231231235, 
+Telefone: 1196543654
+, 
+Email: email@teste.com
+, 
+ENDERECO COMPLETO
+CEP: 098765-432
+, RUA: Algusta
+, NUMERO: 1007
+, BAIRRO: Braz
+, CIDADE: Sao Paulo
+, ESTADO: SP
+, 
+Data de nascimento: 28/05/2004, 
+Data do diagnostico: 09/11/2022, 
+Comorbidade: Alcolismo
+
+Nome: teste
+
+CPF: 1231231231
+Telefone: 121231231232
+
+Email: test@test.com
+
+ENDERECO COMPLETO
+ CEP: 12345-090
+, RUA: A B C
+, NUMERO: 27
+, BAIRRO: Centro
+, CIDADE: Sao Bernardo
+, ESTADO: Sao Paulo
+
+Data de nascimento: 21/02/2000, 
+Data do diagnostico: 22/02/2022, 
+Comorbidade: Obesidade
+
+Nome: Joao Victor
+CPF: 1231231231
+Telefone: 11988776655
+Email: test@test.com
+ENDERECO COMPLETO
+CEP: 01234-567
+ RUA: Rua de Teste 14 de Abril 
+ NUMERO: 21615
+ BAIRRO: Centro
+ CIDADE: Sao Bernardo do Campo
+ ESTADO: Sao Paulo
+Data de nascimento: 07/08/1915
+Data do diagnostico: 09/11/2022
+Comorbidade: Catarata
+
+Nome: Joao Victor
+CPF: 1231231231
+Telefone: 11222334455
+Email: teste@teste.com
+ENDERECO COMPLETO
+CEP: 01234-567
+ RUA: Algusta
+ NUMERO: 1007
+ BAIRRO: Ali
+ CIDADE: Sao Pauo
+ ESTADO: Sao Paul
+Data de nascimento: 16/02/2002
+Data do diagnostico: 31/03/2022
+Comorbidade: Alcolismo
+
+Nome: Joaquim Francisco Antonio Xico
+CPF: 9998887773
+Telefone: N/A
+Email: N/A
+ENDERECO COMPLETO
+CEP: 01523-210
+ RUA: Dos Bandeirantes
+ NUMERO: 27403
+ BAIRRO: Bem ali
+ CIDADE: Sao Paulo
+ ESTADO: Sao Paulo
+Data de nascimento: 01/05/1920
+Data do diagnostico: 05/10/2022
+Comorbidade: Esqueci
+
+Nome: Antonio Joaquim Francisco
+CPF: 3338882229
+Telefone: 11988775544
+Email: test@test.com
+ENDERECO COMPLETO
+CEP: 03434-321
+ RUA: Algusta
+ NUMERO: 1007
+ BAIRRO: Ali
+ CIDADE: Sao Paulo
+ ESTADO: Sao Paulo
+Data de nascimento: �a
+Data do diagnostico: 20/09/2022
+Comorbidade: Fumante
+
+Nome: A
+CPF: 123
+
+Telefone: 123
+Email: 123
+ENDERECO COMPLETO
+CEP: 123
+ RUA: 123
+ NUMERO: 123
+ BAIRRO: 123
+ CIDADE: 123
+ ESTADO: 123
+Data de nascimento: �a
+Data do diagnostico: 12/09/2022
+Comorbidade: obesidade
+
+Nome: A A
+CPF: 1231231231
+Telefone: 12321123321
+Email: teste@teste.com
+ENDERECO COMPLETO
+CEP: 12312-321
+ RUA: Algusta
+ NUMERO: 1007
+ BAIRRO: Sao Paulo
+ CIDADE: Sao Paulo
+ ESTADO: Sao Paulo
+Data de nascimento: 20/04/1970
+Data do diagnostico: 10/11/2022
+Comorbidade: Obesidade
+
+Nome: A A
+CPF: 1231231233
+Telefone: 12321232123
+Email: test@test.com
+ENDERECO COMPLETO
+CEP: 12332-321
+ RUA: A
+ NUMERO: 123
+ BAIRRO: A
+ CIDADE: A
+ ESTADO: A
+Data de nascimento: 01/04/1970
+Data do diagnostico: 02/11/2022
+Comorbidade: Obesidade
+
+Nome: A A
+CPF: 1231231231
+Telefone: 12312312312
+Email: 123
+ENDERECO COMPLETO
+CEP: 12312312
+ RUA: 123123
+ NUMERO: 123
+ BAIRRO: 123123
+ CIDADE: 123123
+ ESTADO: 3213
+Data de nascimento: 10/04/2022
+Data do diagnostico: 11/11/2022
+Comorbidade: abc
+
+Nome: Joao Victor
+CPF: 1231231231
+Telefone: 12321321321
+Email: test@test.com
+ENDERECO COMPLETO
+CEP: 09876543
+ RUA: Algusta
+ NUMERO: 1007
+ BAIRRO: Sao Paulo
+ CIDADE: Sao Paulo
+ ESTADO: Sao Paulo
+Data de nascimento: 10/04/2022
+Data do diagnostico: 11/11/2022
+Comorbidade: Obesidade
+
+Nome: Joao Victor
+CPF: 1231231231
+Telefone: 12123123123
+Email: test@test.com
+ENDERECO COMPLETO
+CEP: 12312123
+ RUA: ABC
+ NUMERO: 123
+ BAIRRO: ABC
+ CIDADE: ABC
+ ESTADO: ABC
+Data de nascimento: 01/01/1940
+Data do diagnostico: 10/11/2022
+Comorbidade: Pressao Alta
+
+Nome: Joao Victor
+CPF: 1231231232
+Telefone: 12321323232
+Email: teste@test.com
+ENDERECO COMPLETO
+CEP: 12312-123
+ RUA: Algusta
+ NUMERO: 1007
+ BAIRRO: Sao Paulo
+ CIDADE: Sao Paulo
+ ESTADO: Sao Paulo
+Data de nascimento: 01/01/1940
+Data do diagnostico: 10/11/2022
+Comorbidade: Pressao Alta
+
+Nome: Joao Victor
+CPF: 5839278232
+Telefone: 21988776655
+Email: test@test.com
+ENDERECO COMPLETO
+CEP: 09876-434
+ RUA: Algusta
+ NUMERO: 1007
+ BAIRRO: Ali no Centro
+ CIDADE: Sao Paulo
+ ESTADO: Sao Paulo
+Data de nascimento: 10/10/1999
+Data do diagnostico: 10/11/2022
+Comorbidade: Muitos problemas
+
+Nome: Joao Victor
+CPF: 1231231233
+Telefone: 12321212121
+Email: teste@teste.com
+ENDERECO COMPLETO
+CEP: 32321-321
+ RUA: A Rua que Funciona
+ NUMERO: 1007
+ BAIRRO: Deu Certo
+ CIDADE: Dez
+ ESTADO: Netherlands
+Data de nascimento: 10/10/1999
+Data do diagnostico: 10/11/2022
+Comorbidade: Ferias atrasadas
+
+Nome: Joao Victor
+CPF: 5854743632
+Telefone: 11988764636
+Email: testing@test.com
+CEP: 02948-283
+ENDERECO COMPLETO: Rua Algusta, 1007, Centro, Sao Paulo, SP
+Data de nascimento: /
+/�Comorbidade: Obesidade
+
+Nome: Antonio Galisteu
+CPF: 5465344236
+Telefone: 11913728475
+Email: teste@teste.com
+CEP: 12345-678
+ENDERECO COMPLETO: Rua Algusta, 1007, Centro, Sao Paulo, SP
+Data de nascimento: 4227200/4227212/4227196Comorbidade: Hipertensao
+
+Nome: qwe
+CPF: 123
+
+Telefone: 123
+Email: 123
+CEP: 123
+ENDERECO COMPLETO: 123
+Data de nascimento: �/�/�
+Comorbidade: teste
+
+Nome: qwe
+CPF: qwe
+
+Telefone: qwe
+Email: qwe
+CEP: qwe
+ENDERECO COMPLETO: 123
+Data de nascimento: /
+/� 
+Comorbidade: obesidade
+
+Nome: qwe
+CPF: 123
+
+Telefone: 123
+Email: 123
+CEP: 123
+ENDERECO COMPLETO: 123
+Data de nascimento: 26/10/1999 
+Comorbidade: obesidade
+
+Nome: Joao
+CPF: 1231231233
+Telefone: 123123123124
+Email: 3213213@123123
+CEP: 3123454
+ENDERECO COMPLETO: Rua
+Data de nascimento: 26/10/1999 
+Comorbidade: x�a
+Nome: Joao
+CPF: 123
+
+Telefone: 123
+Email: 123
+CEP: 123
+ENDERECO COMPLETO: 123
+Data de nascimento: 26/10/1999 
+Comorbidade: x�a
+Nome: Joao
+CPF: 123
+
+Telefone: 123
+Email: 123
+CEP: 123
+ENDERECO COMPLETO: 123
+Data de nascimento: 26/10/1999 
+Comorbidade: Hipertensao
+
+
+Nome------------------: Joao Victor
+
+    
+CPF-------------------: 3215436547
+    
+Telefone--------------: 11765436443
+
+    
+Email-----------------: test@test.com
+
+    
+CEP-------------------: 09876543
+
+    
+ENDERECO COMPLETO-----: Rua Algusta, 1007, Centro, Sao Paulo, SP
+
+    
+Data de nascimento----: 26/10/1919
+    
+Comorbidade-----------: 
+
+Nome------------------: Joao Victor
+
+    
+CPF-------------------: 1231231231
+    
+Telefone--------------: 123123213
+
+    
+Email-----------------: 123@132123.c
+
+    
+CEP-------------------: 123123
+
+    
+ENDERECO COMPLETO-----: 32132
+
+    
+Data de nascimento----: 26/10/1999
+    
+Comorbidade-----------: Obesidade
+
+
+Nome----------------: joao
+    
+CPF-----------------: 1231231235    
+Telefone------------: 1188776655
+    
+Email---------------: teste@teste.com
+    
+CEP-----------------: 32154-123
+    
+ENDERECO COMPLETO---: Rua Algusta, 1007, Centro, Sao Paulo, SP
+    
+Data de nascimento--: 26/10/1940    
+Comorbidade---------: Artrite
+
+    
+====================================
+
+
+Nome----------------: Joao Victor
+    
+CPF-----------------: 7566455343
+    
+Telefone------------: 11922774466
+    
+Email---------------: t@t.com
+    
+CEP-----------------: 32187-543
+    
+ENDERECO COMPLETO---: Rua Algusta, 1007, Centro, Sao Paulo, SP
+    
+Data de nascimento--: 26/10/1934
+    
+Comorbidade---------: hipertensao
+
+    
+====================================
+
+
+
+Nome----------------: Joao
+    
+CPF-----------------: 1231231233
+    
+Telefone------------: 12323233232
+    
+Email---------------: test@test.com
+    
+CEP-----------------: 03292-238
+    
+ENDERECO COMPLETO---: Rua Algusta, 1007, Centro, Sao Paulo, SP
+    
+Data de nascimento--: 26/10/1925
+    
+Comorbidade---------: atrofia muscular
+
+    
+====================================
+
+Nome----------------: Joao Victor
+    CPF-----------------: 5435438673
+    Telefone------------: 11543546576
+    Email---------------: testing@test.com
+    CEP-----------------: 05986-394
+    ENDERECO COMPLETO---: Rua Algusta, 1007, Centro, Sao Paulo, SP
+    Data de nascimento--: 26/10/1950
+    Comorbidade---------: hipertensao
+
+    ====================================
+
+
+Nome ----------------: a
+    CPF -----------------: 1236621948
+    Telefone ------------: 11934767819
+    Email ---------------: a
+    CEP -----------------: 05756240
+    ENDERECO COMPLETO ---: rua catiara, 267, jardim umarizal
+    Data de nascimento --: 4/7/1940
+    Comorbidade ---------: catarata
+
+    ====================================
+
+
+Nome ----------------: jose
+    CPF -----------------: 1236621948
+    Telefone ------------: 11934767819
+    Email ---------------: jose@gmail.com
+    CEP -----------------: 05756240
+    ENDERECO COMPLETO ---: rua catiara, 267, jardim umarizal
+    Data de nascimento --: 4/7/1940
+    Comorbidade ---------: catarata
+
+    Data atual ----------: 4/7/1940
+    ====================================
+
+
+Nome ----------------: jose
+    CPF -----------------: 1236621948
+    Telefone ------------: 11934767819
+    Email ---------------: jose@gmail.com
+    CEP -----------------: 05756240
+    ENDERECO COMPLETO ---: rua catiara, 267, jardim umarizal
+    Data de nascimento --: 4/7/1930
+    Comorbidade ---------: hipertensao
+
+    Data atual ----------: 4/7/2022
+    ====================================
+
+
+Nome ----------------: joao
+    CPF -----------------: 1236621948
+    Telefone ------------: 11934767819
+    Email ---------------: joao@gmail.com
+    CEP -----------------: 05756240
+    ENDERECO COMPLETO ---: rua catiara, 267, jardim umarizal
+    Data de nascimento --: 4/7/1950
+    Dia do diagnóstico ----------: 4/7/2022
+    Comorbidade ---------: diabetes
+
+    ====================================

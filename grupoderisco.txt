@@ -1,0 +1,86 @@
+
+Nome --------------: Joao Victor
+
+        Idade --------------: 103
+        CPF ----------------: 3215436547
+        CEP ----------------: 09876543
+
+        Comorbidade---------: 
+        O Paciente foi identificado como pertencente ao grupo de risco.
+
+Nome --------------: joao
+
+        Idade --------------: 82
+        CPF ----------------: 1231231235
+        CEP ----------------: 32154-123
+
+        Comorbidade---------: Artrite
+
+        O Paciente foi identificado como pertencente ao grupo de risco.
+
+Nome --------------: Joao Victor
+        Idade --------------: 88
+        CPF ----------------: 7566455343
+        CEP ----------------: 32187-543
+        Comorbidade---------: hipertensao
+
+        O Paciente foi identificado como pertencente ao grupo de risco.
+        ====================================
+
+Nome --------------: Joao
+        Idade --------------: 97
+        CPF ----------------: 1231231233
+        CEP ----------------: 03292-238
+        Comorbidade---------: atrofia muscular
+
+        O Paciente foi identificado como pertencente ao grupo de risco.
+        ====================================
+
+Nome --------------: Joao Victor
+        Idade --------------: 72
+        CPF ----------------: 5435438673
+        CEP ----------------: 05986-394
+        Comorbidade---------: hipertensao
+
+        O Paciente foi identificado como pertencente ao grupo de risco.
+        ====================================
+
+
+Nome ---------------: a
+        Idade --------------: 82
+        CPF ----------------: 1236621948
+        CEP ----------------: 05756240
+        Comorbidade---------: catarata
+
+        O Paciente foi identificado como pertencente ao grupo de risco.
+        ====================================
+
+
+Nome ---------------: jose
+        Idade --------------: 82
+        CPF ----------------: 1236621948
+        CEP ----------------: 05756240
+        Comorbidade---------: catarata
+
+        O Paciente foi identificado como pertencente ao grupo de risco.
+        ====================================
+
+
+Nome ---------------: jose
+        Idade --------------: 92
+        CPF ----------------: 1236621948
+        CEP ----------------: 05756240
+        Comorbidade---------: hipertensao
+
+        O Paciente foi identificado como pertencente ao grupo de risco.
+        ====================================
+
+
+Nome ---------------: joao
+        Idade --------------: 72
+        CPF ----------------: 1236621948
+        CEP ----------------: 05756240
+        Comorbidade---------: diabetes
+
+        O Paciente foi identificado como pertencente ao grupo de risco.
+        ====================================

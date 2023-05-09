@@ -1,0 +1,33 @@
+
+CEP: 123
+Idade: 6422148
+
+CEP: 12312-321
+Idade: �a
+
+CEP: 12332-321
+Idade: 6422161
+
+CEP: 12312312
+Idade: 6422161
+
+CEP: 09876543
+Idade: 6422161
+
+CEP: 12312123
+Idade: 6422161
+
+CEP: 12312-123
+Idade: 82
+
+CEP: 09876-434
+Idade: 23
+
+CEP: 32321-321
+Idade: 23
+
+CEP: 12345-678
+Idade: 103
+
+CEP: 123
+Idade: 92
